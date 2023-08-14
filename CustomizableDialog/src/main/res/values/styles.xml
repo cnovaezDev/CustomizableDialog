@@ -1,0 +1,18 @@
+<resources>
+
+    <style name="CustomDefCnovaezDevButtonStyle">
+        <item name="android:background">@drawable/custom_button_background</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/whiteDefColor</item>
+    </style>
+
+    <style name="CustomDefCnovaezDevCancelButtonStyle">
+        <item name="android:background">@drawable/custom_cancel_button_background</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/whiteDefColor</item>
+    </style>
+
+
+</resources>

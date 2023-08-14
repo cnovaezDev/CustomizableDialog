@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryDefColor">#3FA3C7</color>
+    <color name="primaryDefColorGreen">#70A672</color>
+    <color name="primaryDefColorRed">#C46363</color>
+    <color name="primaryDefColorWarning">#CDC266</color>
+    <color name="primaryDefColorError">#E8606B</color>
+
+    <color name="primaryDefColorDark">#3f51b5</color>
+
+    <color name="whiteDefColor">#FFFFFF</color>
+    <color name="blackDefColor">#000000</color>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btnAcepttxt">Confirmar</string>
+    <string name="btnCerrartxt">Cancelar</string>
+</resources>
