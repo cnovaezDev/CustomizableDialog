@@ -3,14 +3,13 @@ Lightweight library that allows you to use a Customizable Dialog instead of the 
 
 # Example Designs
 
-![info](https://github.com/cnovaezDev/CustomizableDialog/assets/103778694/11df95d7-d70a-46d2-aee4-1ed2749fbefe)
+![questionv2](https://github.com/cnovaezDev/CustomizableDialog/assets/103778694/b78767a5-0256-47bc-a84b-5581a581fa03)
 
-![error](https://github.com/cnovaezDev/CustomizableDialog/assets/103778694/2e064531-13b6-4696-8bdd-c5ea67db7ced)
+![errorv2](https://github.com/cnovaezDev/CustomizableDialog/assets/103778694/f2e5b7df-f54a-402e-ad62-f829b3b0e7cc)
 
-![warning](https://github.com/cnovaezDev/CustomizableDialog/assets/103778694/bb4b52e3-913a-4ed7-992d-923fffa72a82)
+![warningv2](https://github.com/cnovaezDev/CustomizableDialog/assets/103778694/241eecda-a253-435a-83a9-cc82462364f3)
 
-![question](https://github.com/cnovaezDev/CustomizableDialog/assets/103778694/0725f4de-60af-485c-80a0-7248daf82594)
-
+![infov2](https://github.com/cnovaezDev/CustomizableDialog/assets/103778694/e0781a19-a608-43a0-8ca6-37604af695e5)
 
 
 # Add to the project
