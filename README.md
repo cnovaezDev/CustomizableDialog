@@ -15,13 +15,16 @@ Lightweight library that allows you to use a Customizable Dialog instead of the 
 
 # Add to the project
 
-Step 1. Add it in your settings.gradle at the end of repositories:
+<strong>Step 1</strong>. Add it in your settings.gradle at the end of repositories:
 <h6>maven { url 'https://jitpack.io' }</h6>
 
 ![image](https://github.com/cnovaezDev/CustomizableDialog/assets/103778694/1952db4d-a1f3-4a74-8c2e-1e7426e31b68)
 
-Step 2. Add the dependency
+<strong>Step 2</strong>. Add the dependency
+
+<pre>
 implementation 'com.github.cnovaezDev:CustomizableDialog:1.0.1'
+</pre>
 
 # Example of use
 
