@@ -25,6 +25,8 @@ Lightweight library that allows you to use a Customizable Dialog instead of the 
 implementation 'com.github.cnovaezDev:CustomizableDialog:1.0.1'
 </pre>
 
+[![](https://jitpack.io/v/cnovaezDev/CustomizableDialog.svg)](https://jitpack.io/#cnovaezDev/CustomizableDialog)
+
 # Example of use
 
 <pre>
@@ -76,3 +78,7 @@ CustomizableDialogItem(
  <li>kotlin version 1.6</li>
  <li>min sdk 23</li>
 </ul>
+
+
+
+
