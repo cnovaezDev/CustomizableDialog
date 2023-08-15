@@ -71,3 +71,9 @@ CustomizableDialogItem(
                     customImage = R.drawable.info_pic, // A custom pic to be used, if especified the previous image property is ignored.
                 )
 </pre>
+
+# Requirements
+<ul>
+ <li>kotlin version 1.6</li>
+ <li>min sdk 23</li>
+</ul>
